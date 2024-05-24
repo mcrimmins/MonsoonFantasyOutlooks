@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "Station": "FLAGSTAFF AP",
+      "Product": "6-10 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-29-2024 to Jun-02-2024",
+      "Probability": "33-40%",
+      "Forecast": "drier-than-average"
+    },
+    {
+      "Station": "FLAGSTAFF AP",
+      "Product": "8-14 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-31-2024 to Jun-06-2024",
+      "Probability": "33-40%",
+      "Forecast": "drier-than-average"
+    },
+    {
+      "Station": "FLAGSTAFF AP",
+      "Product": "Week 3-4",
+      "Forecast Date": "2024-05-17",
+      "Forecast Period": "Jun-01-2024 to Jun-14-2024",
+      "Probability": "50%-50%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "FLAGSTAFF AP",
+      "Product": "1-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "Jun 2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "FLAGSTAFF AP",
+      "Product": "3-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "JJA 2024",
+      "Probability": "33-40%",
+      "Forecast": "drier-than-average"
+    }
+  ],
+  [
+    {
+      "Station": "EL PASO INTL AP",
+      "Product": "6-10 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-29-2024 to Jun-02-2024",
+      "Probability": "33-40%",
+      "Forecast": "drier-than-average"
+    },
+    {
+      "Station": "EL PASO INTL AP",
+      "Product": "8-14 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-31-2024 to Jun-06-2024",
+      "Probability": "33-40%",
+      "Forecast": "wetter-than-average"
+    },
+    {
+      "Station": "EL PASO INTL AP",
+      "Product": "Week 3-4",
+      "Forecast Date": "2024-05-17",
+      "Forecast Period": "Jun-01-2024 to Jun-14-2024",
+      "Probability": "50%-50%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "EL PASO INTL AP",
+      "Product": "1-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "Jun 2024",
+      "Probability": "40-50%",
+      "Forecast": "drier-than-average"
+    },
+    {
+      "Station": "EL PASO INTL AP",
+      "Product": "3-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "JJA 2024",
+      "Probability": "40-50%",
+      "Forecast": "drier-than-average"
+    }
+  ],
+  [
+    {
+      "Station": "PHOENIX AIRPORT",
+      "Product": "6-10 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-29-2024 to Jun-02-2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "PHOENIX AIRPORT",
+      "Product": "8-14 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-31-2024 to Jun-06-2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "PHOENIX AIRPORT",
+      "Product": "Week 3-4",
+      "Forecast Date": "2024-05-17",
+      "Forecast Period": "Jun-01-2024 to Jun-14-2024",
+      "Probability": "50%-50%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "PHOENIX AIRPORT",
+      "Product": "1-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "Jun 2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "PHOENIX AIRPORT",
+      "Product": "3-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "JJA 2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    }
+  ],
+  [
+    {
+      "Station": "TUCSON INTERNATIONAL AIRPORT",
+      "Product": "6-10 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-29-2024 to Jun-02-2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "TUCSON INTERNATIONAL AIRPORT",
+      "Product": "8-14 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-31-2024 to Jun-06-2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "TUCSON INTERNATIONAL AIRPORT",
+      "Product": "Week 3-4",
+      "Forecast Date": "2024-05-17",
+      "Forecast Period": "Jun-01-2024 to Jun-14-2024",
+      "Probability": "50%-50%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "TUCSON INTERNATIONAL AIRPORT",
+      "Product": "1-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "Jun 2024",
+      "Probability": "33-40%",
+      "Forecast": "drier-than-average"
+    },
+    {
+      "Station": "TUCSON INTERNATIONAL AIRPORT",
+      "Product": "3-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "JJA 2024",
+      "Probability": "33-40%",
+      "Forecast": "drier-than-average"
+    }
+  ],
+  [
+    {
+      "Station": "ALBUQUERQUE INTL AP",
+      "Product": "6-10 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-29-2024 to Jun-02-2024",
+      "Probability": "33%-33%-33%",
+      "Forecast": "equal-chances"
+    },
+    {
+      "Station": "ALBUQUERQUE INTL AP",
+      "Product": "8-14 day",
+      "Forecast Date": "2024-05-23",
+      "Forecast Period": "May-31-2024 to Jun-06-2024",
+      "Probability": "33-40%",
+      "Forecast": "wetter-than-average"
+    },
+    {
+      "Station": "ALBUQUERQUE INTL AP",
+      "Product": "Week 3-4",
+      "Forecast Date": "2024-05-17",
+      "Forecast Period": "Jun-01-2024 to Jun-14-2024",
+      "Probability": "50-60%",
+      "Forecast": "wetter-than-average"
+    },
+    {
+      "Station": "ALBUQUERQUE INTL AP",
+      "Product": "1-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "Jun 2024",
+      "Probability": "40-50%",
+      "Forecast": "drier-than-average"
+    },
+    {
+      "Station": "ALBUQUERQUE INTL AP",
+      "Product": "3-month",
+      "Forecast Date": "2024-05-16",
+      "Forecast Period": "JJA 2024",
+      "Probability": "40-50%",
+      "Forecast": "drier-than-average"
+    }
+  ]
+]
