@@ -331,8 +331,10 @@ for(i in 1:length(cities)){
   cityListJSON[[i]]<-sf::st_drop_geometry(cityListJSON[[i]])
 }
 
+
 # write to JSON file
 fcstJSON<-jsonlite::toJSON(cityListJSON, pretty = TRUE)
 write(fcstJSON, "SWMF_Outlooks.json")    
+print("Write fcstJSON to file")
 
 source('/home/crimmins/RProjects/MonsoonFantasyOutlooks/pushNotify.R')
